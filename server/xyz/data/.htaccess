@@ -1,0 +1,6 @@
+# BSD License.
+# Copyright(C) 2013-2013 RabiSoft
+# http://www.rabisoft.com
+<Files "*.db">
+deny from all
+</Files>
